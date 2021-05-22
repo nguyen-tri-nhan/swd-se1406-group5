@@ -19,3 +19,5 @@ GUIDE. It is a mobile platform application to connect people who need a plan for
 -	Create a to-do list for users
 
 ## Objective
+-	Help anyone who doesn’t have much money
+-	Reduce wasting time
