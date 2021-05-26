@@ -2,6 +2,6 @@
 
 ## Documentation
 ### Product description
-[Product scope documentation](doc/productscope.md)
+[Product scope preparation](doc/productscope.md)
 
-[Product description](doc/PRODUCTDESCRIPTION.docx)
+[Product description documentation](doc/PRODUCT-DESCRIPTION.docx)
